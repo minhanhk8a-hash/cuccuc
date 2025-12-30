@@ -1,0 +1,16 @@
+python-telegram-bot==20.8
+httpx==0.26.0
+apscheduler
+nest-asyncio
+google-cloud-vision
+gdown
+python-dotenv
+tenacity
+pytz
+pandas
+openpyxl
+pdfplumber
+xlrd
+requests==2.32.3
+sift-stack-py
+telegram
